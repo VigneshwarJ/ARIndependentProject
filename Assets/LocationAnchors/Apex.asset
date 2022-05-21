@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebcdb6ca15d580740b1c8ebe03cb54e4, type: 3}
+  m_Name: Apex
+  m_EditorClassIdentifier: 
+  poiName: Apex
+  description: Apex Aprtments
+  icon: {fileID: 0}
+  objectPrefab: {fileID: 3065208693967968302, guid: b345f8d9f9c2da54ba12cc43e8e93a2a,
+    type: 3}
+  modelPrefab: {fileID: 7926072875002504435, guid: 80add8b20a22dff4893e8b16d9d0f441,
+    type: 3}
+  canvasPrefab: {fileID: 1531612421245766800, guid: 4d349255133f0b64a9b83edd56905f11,
+    type: 3}
+  coordinates:
+    lat: 43.081494805612
+    lon: -77.6581908538263
+  trackingRadius: 500
+  trackingExitMargin: 200
+  closeTrackingRadius: 200
+  closeTrackingExitMargin: 10
+  positionMode: 0
+  facingDirectionHeading: 0
+  relativeHeight: 0

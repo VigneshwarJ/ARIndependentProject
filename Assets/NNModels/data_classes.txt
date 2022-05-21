@@ -1,0 +1,5 @@
+Duck
+Brick
+speaker
+sugar
+coffee
